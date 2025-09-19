@@ -13,3 +13,6 @@ Its a finetuned DeepSeekR1 Model which asks user doubts to ambigous questions, a
 - Limitations: May require user interaction which could slow down the reasoning process. Performance is dependent on the quality of user input.
 - Ethical Considerations: Ensure user data privacy and avoid over-reliance on user input for critical decisions.
 - Citation: Please cite the GitHub repository if you use this model in your work.
+
+
+Model will be uploaded soon on Hugging Face.

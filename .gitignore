@@ -2,3 +2,7 @@ model/
 model-20250919T090005Z-1-002.zip
 model2/
 .env
+Plans
+/entailment_trees_emnlp2021_data_v2
+benchmark_data/
+Medical_Benchmarking/

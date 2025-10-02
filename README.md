@@ -1,4 +1,4 @@
-<image src="FailFastorAsk.png" alt="FNET Logo" width="200"/>
+<image src="FailFastorAsk.png" alt="FNET Logo" width="400"/>
 
 # Human_in_the_Loop_Reasoning
 Its a finetuned DeepSeekR1 Model which asks user doubts to ambigous questions, and proceeds with its further reasoning steps. Just like <think> token in reasoning models, here <ask>, <question> tokens are used to ask user doubts. This can be used in any reasoning model to improve its accuracy as it reduces the ambiguity in the task assigned to the model and also I think this might reduce the compounding error in reasoning models.

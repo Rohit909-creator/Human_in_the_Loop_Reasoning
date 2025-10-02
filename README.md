@@ -1,5 +1,9 @@
+![image](Fail Fast or Ask.png)
 # Human_in_the_Loop_Reasoning
 Its a finetuned DeepSeekR1 Model which asks user doubts to ambigous questions, and proceeds with its further reasoning steps. Just like <think> token in reasoning models, here <ask>, <question> tokens are used to ask user doubts. This can be used in any reasoning model to improve its accuracy as it reduces the ambiguity in the task assigned to the model and also I think this might reduce the compounding error in reasoning models.
+
+supporting research paper: https://arxiv.org/html/2507.14406v1
+Paper Name: Fail Fast or Ask Mitigating the Deficiencies of Reasoning LLMs with Human-in-the-Loop Systems Engineering
 
 ## Model Card
 - Model Name: Human_in_the_Loop_Reasoning
@@ -41,5 +45,3 @@ I also need an idea of where to visit.
 Okay, planning a visit to Boston Robotics Inc., Bangalore. I will focus on the cost and schedule.
 Final Answer: Plan an industrial visit to Boston Robotics Inc, Bangalore with a budget of 20,000 INR, focusing on robotics.
 ```
-
-Model will be uploaded soon on Hugging Face.
